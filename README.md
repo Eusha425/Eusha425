@@ -9,7 +9,7 @@ I have interests in AI and Software Development and am doing a double major in m
 * ☕Java(currently learning)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&layout=compact)
 
 ### My Socials
 
