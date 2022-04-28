@@ -5,7 +5,7 @@ I have interests in AI and Software Development and am doing a double major in m
 
 ## Skills
 * 💻Visual Basic.Net
- *🐍Python
+* 🐍Python
  *☕Java(currently learning)
 
 ### My Socials
