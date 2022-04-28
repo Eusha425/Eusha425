@@ -4,7 +4,7 @@ I am from Bangladesh, currently am a student studying at @UTAS, Australia
 I have interests in AI and Software Development and am doing a double major in my uni.
 
 ## Skills
- *💻Visual Basic.Net
+* 💻Visual Basic.Net
  *🐍Python
  *☕Java(currently learning)
 
