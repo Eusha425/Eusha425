@@ -7,6 +7,7 @@ I have interests in AI and Software Development and am doing a double major in m
 * 💻Visual Basic.Net
 * 🐍Python
 * ☕Java(currently learning)
+* #128225HTML
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&layout=compact)
