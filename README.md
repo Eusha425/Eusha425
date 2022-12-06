@@ -10,7 +10,7 @@ I have interests in AI and Software Development and am doing a double major at m
 * 💻 HTML
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
 ### My Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gazieusha/)  
