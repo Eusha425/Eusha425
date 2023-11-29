@@ -1,7 +1,10 @@
-# Gazi Eusha 
-Hi there 👋, I am Gazi Eusha
-from Bangladesh, currently am a student studying at <a href="https://www.utas.edu.au/">University of Tasmania</a>, Australia.
-I have interests in AI and Software Development and am doing a double major at my uni.
+# 🌟 Welcome to the GitHub of Gazi Eusha! 🌟
+
+Hello, World! 🌍 I’m Gazi Eusha, hailing from the vibrant country of Bangladesh 🇧🇩. Currently, I’m expanding my horizons as a student at the <a href="https://www.utas.edu.au/">University of Tasmania</a>, Australia 🇦🇺.
+
+My academic journey is a thrilling ride, pursuing a double major with a keen focus on Artificial Intelligence 🧠 and Software Development 💻. These fields ignite my passion, and I’m excited to explore the endless possibilities they offer.
+
+Stay tuned to witness my journey through the fascinating world of tech! 🚀
 
 ## Skills
 * 📡 Visual Basic.Net
