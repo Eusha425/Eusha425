@@ -6,13 +6,6 @@ My academic journey is a thrilling ride, pursuing a double major with a keen foc
 
 Stay tuned to witness my journey through the fascinating world of tech! 🚀.
 
-
-## Skills
-* 📡 Visual Basic.Net
-* 🐍 Python
-* ☕ Java 
-* 💻 HTML
-
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&layout=compact&theme=github_dark)
 
