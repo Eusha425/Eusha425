@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hello, World! 🌍 I'm Gazi Eusha, hailing from the vibrant country of 🇧🇩 Bangladesh. Currently, I'm expanding my horizons as a student at the University of Tasmania, 🇦🇺 Australia.<br><br>My academic journey is a thrilling ride, pursuing a double major with a keen focus on Artificial Intelligence 🧠 and Software Development 💻. These fields ignite my passion, and I'm excited to explore the endless possibilities they offer.<br><br>Stay tuned to witness my journey through the fascinating world of tech! 🚀.
+# 🌍 Hello, World! 
+
+I'm **Gazi Eusha**, originally from the lively and culturally rich **Bangladesh** 🇧🇩, now expanding my horizons in **Australia** 🇦🇺 as a student at the **University of Tasmania**.
+
+🚀 I’m on a transformative academic journey, pursuing a **double major in Artificial Intelligence** 🧠 and **Software Development** 💻. My studies fuel a deep-seated passion for creating impactful solutions through technology, and I’m dedicated to exploring how innovation in these fields can shape the future.
+
+🌟 Driven, ambitious, and constantly curious, I'm excited to apply my learning to real-world challenges and am committed to contributing to the tech community. Stay tuned to follow along as I navigate the ever-evolving world of technology!
+
 
 
 ## 🌐 Socials:
