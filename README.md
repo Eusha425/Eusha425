@@ -1,6 +1,6 @@
 # 🌍 Hello, World! 
 
-Hi, I’m Gazi Eusha. I’m originally from the lively and inspiring Bangladesh 🇧🇩 and currently based in Australia 🇦🇺, where I’m pursuing both academic and professional goals in the tech world.
+Hi, I’m Eusha. I’m originally from the lively and inspiring Bangladesh and currently based in Australia, where I’m pursuing both academic and professional goals in the tech world.
 
 Right now, I’m studying for a Master of Information Technology and Systems at the University of Tasmania. Before this, I completed a Bachelor of ICT with a major in Artificial Intelligence, which really shaped my interest in building smart, practical solutions with technology.
 
