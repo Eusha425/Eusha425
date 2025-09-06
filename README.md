@@ -1,13 +1,12 @@
 # 🌍 Hello, World! 
 
-I'm **Gazi Eusha**, originally from the lively and culturally rich **Bangladesh** 🇧🇩, now expanding my horizons in **Australia** 🇦🇺 as a student at the **University of Tasmania**.
+Hi, I’m Gazi Eusha. I’m originally from the lively and inspiring Bangladesh 🇧🇩 and currently based in Australia 🇦🇺, where I’m pursuing both academic and professional goals in the tech world.
 
-🚀 I’m on a transformative academic journey, pursuing a **double major in Artificial Intelligence** 🧠 and **Software Development** 💻. My studies fuel a deep-seated passion for creating impactful solutions through technology, and I’m dedicated to exploring how innovation in these fields can shape the future.
+Right now, I’m studying for a Master of Information Technology and Systems at the University of Tasmania. Before this, I completed a Bachelor of ICT with a major in Artificial Intelligence, which really shaped my interest in building smart, practical solutions with technology.
 
-🌟 Driven, ambitious, and constantly curious, I'm excited to apply my learning to real-world challenges and am committed to contributing to the tech community. Stay tuned to follow along as I navigate the ever-evolving world of technology!
+I’m particularly passionate about where AI and software engineering meet real-world problems. I enjoy working on projects that have the potential to make a real impact, whether that’s improving everyday experiences or exploring new ways to use tech creatively.
 
-
- 
+I’m a curious and driven person who loves learning and trying out new tools and ideas. I like working on hands-on projects and collaborating with others, and I share a lot of my work and experiments on GitHub as I keep growing in this field. 
 
 
 ## 💻 Tech Stack
@@ -23,7 +22,7 @@ I'm **Gazi Eusha**, originally from the lively and culturally rich **Bangladesh*
 | **Design & Others** | ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 
-# GitHub Stats:
+# 📈 GitHub Activity:
 ![](https://github-readme-stats.vercel.app/api?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eusha425&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
