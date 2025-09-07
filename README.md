@@ -1,12 +1,8 @@
 # 🌍 Hello, World! 
 
-Hi, I’m Eusha. I’m originally from the lively and inspiring Bangladesh and currently based in Australia, where I’m pursuing both academic and professional goals in the tech world.
+Hi, I’m Eusha. originally from Bangladesh and currently based in Australia. Right now, I'm studying a Master of Information Technology and Systems at the University of Tasmania. I also have a Bachelor's in ICT with a major in Artificial Intelligence, where I developed a strong interest in building practical tech solutions.
 
-Right now, I’m studying for a Master of Information Technology and Systems at the University of Tasmania. Before this, I completed a Bachelor of ICT with a major in Artificial Intelligence, which really shaped my interest in building smart, practical solutions with technology.
-
-I’m particularly passionate about where AI and software engineering meet real-world problems. I enjoy working on projects that have the potential to make a real impact, whether that’s improving everyday experiences or exploring new ways to use tech creatively.
-
-I’m a curious and driven person who loves learning and trying out new tools and ideas. I like working on hands-on projects and collaborating with others, and I share a lot of my work and experiments on GitHub as I keep growing in this field. 
+I'm passionate about the space where AI and software engineering meet. I enjoy working on real-world projects, learning new tools, and sharing what I build here on GitHub as I grow in this field.
 
 
 ## 💻 Tech Stack
