@@ -8,17 +8,21 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Stats
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate General Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          gh_token: ${{ secrets.STATS_TOKEN }}
-          user: Eusha425
-          stats_config: |
-            theme=tokyonight
-            show_icons=true
-            count_private=true
-            hide_border=true
-          langs_config: |
-            theme=tokyonight
-            hide_border=true
-            layout=compact
+          token: ${{ secrets.STATS_TOKEN }}
+          card: overview
+          path: generated/overview.svg
+          options: theme=tokyonight&show_icons=true&count_private=true&hide_border=true
+
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
+          card: languages
+          path: generated/languages.svg
+          options: theme=tokyonight&hide_border=true&layout=compact&count_private=true
