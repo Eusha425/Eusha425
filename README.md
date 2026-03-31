@@ -4,5 +4,6 @@ Originally from Bangladesh and now based in Australia, where I'm completing my M
 
 *Python · Django · PyTorch · scikit-learn · Docker*
 
-<img height="180em" width="49%" src="https://my-stats-api-ebon.vercel.app/api?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" width="49%" src="https://my-stats-api-ebon.vercel.app/api/top-langs/?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=my-stats-api" />
+![](https://my-stats-api-ebon.vercel.app/api?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://my-stats-api-ebon.vercel.app/api/top-langs/?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=my-stats-api)
