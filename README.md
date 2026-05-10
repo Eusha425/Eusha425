@@ -4,6 +4,6 @@ I am currently pursuing a Master of IT and Systems at the University of Tasmania
 
 *Python · Django · PyTorch · scikit-learn · Docker*
 
-| | |
-|---|---|
-| <img src="https://my-stats-api-ebon.vercel.app/api?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" /> | <img src="https://my-stats-api-ebon.vercel.app/api/top-langs/?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=my-stats-api" height="180" /> |
+![](https://my-stats-api-ebon.vercel.app/api?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://my-stats-api-ebon.vercel.app/api/top-langs/?username=Eusha425&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=my-stats-api)
