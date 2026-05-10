@@ -1,6 +1,6 @@
 # Hi, I'm Eusha 👋
 
-Originally from Bangladesh and now based in Australia, where I'm completing my Master's in IT and Systems at the University of Tasmania. With a background in AI, I specialise in backend development and machine learning, designing systems that are reliable, scalable, and actually useful in the real world.
+I am currently pursuing a Master of IT and Systems at the University of Tasmania. With a technical background in AI, I specialise in backend development and machine learning, designing reliable and scalable systems that provide impactful solutions to real world problems.
 
 *Python · Django · PyTorch · scikit-learn · Docker*
 
