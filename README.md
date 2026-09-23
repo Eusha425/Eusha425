@@ -1,6 +1,6 @@
 # Hi, I'm Eusha 👋
 
-I am currently pursuing a Master of IT and Systems at the University of Tasmania. With a technical background in AI, I specialise in backend development and machine learning, designing reliable and scalable systems that provide impactful solutions to real world problems.
+Backend developer and ML enthusiast, focused on building reliable, scalable systems that solve real world problems. Currently working as ICT Academic Staff at the University of Tasmania, teaching and building alongside AI, data, and systems projects.
 
 *Python · Django · PyTorch · scikit-learn · Docker*
 
